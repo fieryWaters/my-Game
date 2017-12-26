@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Dirivative
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Dirivative\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=p
+comment1.target=Dirivative(Polynomial)
+comment1.text=\r\n\ Constructs\ a\ Dirivative\ of\ a\ given\ polynomial.\r\n\ @param\ p\ this\ object\ is\ a\ divative\ of\ Polynomial\ p\r\n
+comment2.params=
+comment2.target=double[]\ getCoefficients()
+comment2.text=\r\n\ @return\ returns\ the\ coefficients\ of\ this\ Dirivative\ I.E.\ ax^2+bx+c\ returns\ a,b,c.\r\n
+comment3.params=value
+comment3.target=int[]\ equals(double)
+comment3.text=\r\n\ Finds\ all\ values\ where\ f(x)\=value\r\n\ @param\ value\ The\ value\ being\ searched\ for.\r\n
+comment4.params=x
+comment4.target=double\ height(int)
+comment4.text=\r\n\ returns\ the\ slope\ at\ point\ x\ on\ the\ original\ function,\ with\ emphasis\ on\ double\ pricision.\r\n\ It's\ important\ to\ realize\ that\ a\ slope\ can\ hold\ a\ wide\ range\ of\ values.\ An\ int\ does\ not\ suffice.\r\n\ @param\ x\ the\ X\ point\ on\ the\ original\ function.\r\n\ @return\ the\ slope\ at\ point\ x\ of\ the\ original\ Polynomial.\r\n
+comment5.params=
+comment5.target=void\ print()
+comment5.text=\r\n\ Prints\ a\ summary\ of\ the\ important\ data\ in\ a\ Dirivative.\r\n
+numComments=6

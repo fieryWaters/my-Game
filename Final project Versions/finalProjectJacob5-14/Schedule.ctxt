@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Schedule()
+comment0.text=\r\n\ Jacob\ Waters\r\n\ Constructor\ for\ objects\ of\ class\ Schedule\r\n
+comment1.params=fileName
+comment1.target=Schedule(java.lang.String)
+comment2.params=newPosition
+comment2.target=void\ addPosition(java.lang.String)
+comment2.text=\r\n\ Jacob\ Waters\r\n
+comment3.params=position\ week\ day\ startTime\ stopTime\ neededEmployees
+comment3.target=void\ setNeededEmployees(java.lang.String,\ int,\ int,\ int,\ int,\ int)
+comment3.text=\r\n\ Jacob\ Waters\r\n
+comment4.params=week\ day
+comment4.target=void\ printSchedule(int,\ int)
+comment5.params=
+comment5.target=java.lang.Object[]\ save()
+numComments=6

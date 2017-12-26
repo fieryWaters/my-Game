@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String[]\ positionsToArray()
+comment1.params=name\ position
+comment1.target=Person(java.lang.String,\ java.lang.String)
+comment2.params=name\ positions\ schedule
+comment2.target=Person(java.lang.String,\ java.util.ArrayList,\ boolean[][][])
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=name
+comment4.target=void\ setName(java.lang.String)
+comment5.params=
+comment5.target=java.util.ArrayList\ getPositions()
+comment6.params=position
+comment6.target=void\ addPosition(java.lang.String)
+comment7.params=positions
+comment7.target=void\ setPosition(java.lang.String[])
+comment8.params=week
+comment8.target=void\ viewSchedule(int)
+numComments=9

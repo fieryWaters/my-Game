@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=p
+comment1.target=void\ userLoggedIn(Person)
+comment10.params=str
+comment10.target=boolean\ isDigit(java.lang.String)
+comment11.params=levelName
+comment11.target=void\ save(java.lang.String)
+comment2.params=globalSchedule
+comment2.target=Person\ addWorker(Schedule)
+comment3.params=globalSchedule\ name
+comment3.target=Person\ addWorker(Schedule,\ java.lang.String)
+comment4.params=person\ week\ day\ time
+comment4.target=boolean\ addTime(Person,\ int,\ int,\ java.lang.String)
+comment5.params=hours\ minutes
+comment5.target=int\ findTimeToArraySpotConversion(java.lang.String,\ java.lang.String)
+comment6.params=week\ day\ scan
+comment6.target=boolean\ addPeople(int,\ int,\ java.util.Scanner)
+comment7.params=correctAnswers
+comment7.target=java.lang.String\ findValidAnswer(java.lang.String[])
+comment8.params=correctAnswers\ answer
+comment8.target=boolean\ validAnswer(java.lang.String[],\ java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ goodInput()
+numComments=12

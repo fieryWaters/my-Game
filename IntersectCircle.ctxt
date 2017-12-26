@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=IntersectCircle
+comment1.params=level
+comment1.target=IntersectCircle(Level)
+comment2.params=level\ r
+comment2.target=IntersectCircle(Level,\ double)
+comment3.params=p
+comment3.target=void\ add(Polynomial)
+comment4.params=other
+comment4.target=int[]\ intersect(Polynomial)
+comment5.params=t\ globalX\ p
+comment5.target=int\ x(int,\ int,\ Polynomial)
+comment5.text=\r\n\ This\ method\ returns\ the\ x\ coordinate\ at\ any\ time\ t.\ The\ x\ coordinate\ must\ be\ in\ the\r\n\ range\ of\ t\ plus\ or\ minus\ r,\ excluding\ endpoints.\ \r\n
+comment6.params=t\ globalX\ globalY\ p
+comment6.target=int\ y(int,\ int,\ int,\ Polynomial)
+comment6.text=\r\n\ This\ method\ returns\ the\ y\ value\ of\ the\ intersection\ function\ at\ any\ time\ T.\r\n
+comment7.params=t\ globalX\ p
+comment7.target=double\ thetaL(int,\ int,\ Polynomial)
+comment7.text=\r\n\ This\ method\ returns\ the\ angle\ in\ radians\ that\ is\ found\ by\ turning\ the\ slope\ of\ \r\n\ the\ function\ at\ T,\ turning\ that\ into\ an\ angle,\ and\ subtracting\ pi/2\ from\ it.\ \r\n\ Ie\ turning\ left\ pi/2\ degrees.\r\n\ Note\ that\ because\ Y\ values\ start\ at\ the\ top\ of\ the\ screen\ and\ increase\ towards\ the\r\n\ bottom,\ that\ subtracting\ pi/2\ is\ a\ left\ turn,\ while\ in\ typical\ math\ is\ would\ be\ a\ right\ turn.\r\n
+comment8.params=g\ globalX\ globalY
+comment8.target=void\ globalDraw(java.awt.Graphics,\ int,\ int)
+comment8.text=\r\n\ This\ method\ is\ strictly\ for\ testing\ purposes.\ \r\n
+numComments=9

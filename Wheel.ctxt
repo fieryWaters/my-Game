@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Wheel
+comment1.params=xV\ yV\ h\ k\ radius
+comment1.target=Wheel(double,\ double,\ int,\ int,\ int)
+comment10.params=x\ globalX\ globalY
+comment10.target=int\ y(int,\ int,\ int)
+comment11.params=g\ globalX\ globalY
+comment11.target=void\ globalDraw(java.awt.Graphics,\ int,\ int)
+comment12.params=y\ x
+comment12.target=double\ theta(double,\ double)
+comment2.params=xV\ yV\ h\ k\ radius\ gravity
+comment2.target=Wheel(double,\ double,\ int,\ int,\ int,\ int)
+comment3.params=r\ theta\ h\ k\ radius
+comment3.target=Wheel\ polar(double,\ double,\ int,\ int,\ int)
+comment4.params=t
+comment4.target=int\ x(double)
+comment5.params=x
+comment5.target=double\ t(double)
+comment6.params=t
+comment6.target=double\ doublePolynomialX(double)
+comment7.params=t
+comment7.target=int\ y(double)
+comment8.params=t
+comment8.target=double\ doublePolynomialY(double)
+comment9.params=x
+comment9.target=int\ y(int)
+numComments=13
